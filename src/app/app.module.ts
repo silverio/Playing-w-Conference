@@ -43,12 +43,12 @@ import { AngularFireDatabaseModule } from 'angularfire2/database';
 
 // AF2 Settings
 const firebaseConfig = {
-  apiKey: "AIzaSyA8tetTH48oydgqVGgLXMSpwJb3KL0CD_A",
-  authDomain: "thematic-209010.firebaseapp.com",
-  databaseURL: "https://thematic-209010.firebaseio.com",
-  projectId: "thematic-209010",
-  storageBucket: "thematic-209010.appspot.com",
-  messagingSenderId: "625077915578"
+  apiKey: "______",
+  authDomain: "______",
+  databaseURL: "______",
+  projectId: "______",
+  storageBucket: "______",
+  messagingSenderId: "______"
 };
 
 
